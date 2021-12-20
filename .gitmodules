@@ -13,3 +13,6 @@
 [submodule "1° 1C Matemática discreta 1"]
 	path = 1° 1C Matemática discreta 1
 	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_MatematicaDiscreta1_FaMAF
+[submodule "1° 2C Algoritmos y estructuras de datos 1"]
+	path = 1° 2C Algoritmos y estructuras de datos 1
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_AlgoritmosYEstructurasDeDatos1_FaMAF
