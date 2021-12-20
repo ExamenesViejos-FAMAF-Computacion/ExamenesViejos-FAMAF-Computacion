@@ -10,3 +10,6 @@
 [submodule "1° 2C Análisis matemático 2"]
 	path = 1° 2C Análisis matemático 2
 	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_AnalisisMatematico2_Computacion_FaMAF
+[submodule "1° 1C Matemática discreta 1"]
+	path = 1° 1C Matemática discreta 1
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_MatematicaDiscreta1_FaMAF
