@@ -4,3 +4,9 @@
 [submodule "1° 1C Introducción a los algoritmos"]
 	path = 1° 1C Introducción a los algoritmos
 	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_IntroduccionALosAlgoritmos_FaMAF
+[submodule "1° 1C Análisis matemático 1"]
+	path = 1° 1C Análisis matemático 1
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_AnalisisMatematico1_Computacion_FaMAF
+[submodule "1° 2C Análisis matemático 2"]
+	path = 1° 2C Análisis matemático 2
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_AnalisisMatematico2_Computacion_FaMAF
