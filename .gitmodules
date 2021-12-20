@@ -1,3 +1,6 @@
 [submodule "1° 1C Álgebra"]
 	path = 1° 1C Álgebra
 	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_Algebra_FaMAF.git
+[submodule "1° 1C Introducción a los algoritmos"]
+	path = 1° 1C Introducción a los algoritmos
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_IntroduccionALosAlgoritmos_FaMAF
