@@ -16,3 +16,21 @@
 [submodule "1° 2C Algoritmos y estructuras de datos 1"]
 	path = 1° 2C Algoritmos y estructuras de datos 1
 	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_AlgoritmosYEstructurasDeDatos1_FaMAF
+[submodule "2° 1C Algoritmos y estructuras de datos 2"]
+	path = 2° 1C Algoritmos y estructuras de datos 2
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_AlgoritmosYEstructurasDeDatos2_FaMAF
+[submodule "2° 1C Análisis numérico"]
+	path = 2° 1C Análisis numérico
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_AnalisisNumerico_FaMAF
+[submodule "2° 1C Organización del computador"]
+	path = 2° 1C Organización del computador
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_OrganizacionDelComputador_FaMAF
+[submodule "2° 2C Introducción a la lógica y a la computación"]
+	path = 2° 2C Introducción a la lógica y a la computación
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_IntroduccionALaLogicaYALaComputacion_FaMAF
+[submodule "2° 2C Probabilidad y estadística"]
+	path = 2° 2C Probabilidad y estadística
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_ProbabilidadyEstadistica_FaMAF
+[submodule "2° 2C Sistemas operativos"]
+	path = 2° 2C Sistemas operativos
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_SistemasOperativos_FaMAF
