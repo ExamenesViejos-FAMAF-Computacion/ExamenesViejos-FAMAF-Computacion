@@ -13,3 +13,5 @@ Para actualizar todo el repositorio y todos los sub-repositorios:
 ```shell
 git pull && git submodule update --init --recursive
 ```
+
+Cualquier contribución con un examen viejo es bienvenida, ya sea como un pull request o como mandar el examen por cualquier otro medio.
