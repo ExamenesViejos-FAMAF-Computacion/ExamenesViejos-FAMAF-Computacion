@@ -12,6 +12,17 @@ Los nombres de las materias tienen que coincidir con el nombre que aparece en la
 
 import os
 
+def pathCarpetaMateria(materia : dict) -> str:
+    """
+    Calcula el path desde la ubicación de este archivo hasta la carpeta de la materia
+    Tambien verifica que el path exista, y si no lo hace, lanza una excepción
+    """
+    path = f"..{os.sep}{materia['año']}° {materia['cuatrimestre']}C {materia['nombre']}"
+    if not os.path.exists(path):
+        raise Exception(f"El path \"{path}\" no existe")
+    return path
+
+
 def generarTexto(materia : dict) -> str:
     """
     Genera el texto que va para la materia en el README.md
@@ -48,7 +59,7 @@ def generarTexto(materia : dict) -> str:
             for carrera, nombre in materia["otrasCarreras"].items():
                 nombreCarrera_TodasLasCarreras += f" - {nombre} ({carrera})"
 
-    carpetaMateria = f"..{os.sep}{materia['año']}° {materia['cuatrimestre']}C {materia['nombre']}"
+    carpetaMateria = pathCarpetaMateria(materia)
     exámenesQueHay = set(os.listdir(carpetaMateria)) - {".git", "README.md"}
     hayExámenes = len(exámenesQueHay) > 0
 
@@ -62,9 +73,18 @@ Cualquier contribución con un examen viejo que no esté es bienvenida, ya sea c
 
 {f"{materia['extra']}" if "extra" in materia else ""}\
 """
-    
     return texto
 
+
+def crearArchivo(materia : dict):
+    """
+    Crea el archivo README.md para la materia
+    """
+    carpetaMateria = pathCarpetaMateria(materia)
+    texto = generarTexto(materia)
+
+    with open(f"{carpetaMateria}{os.sep}README.md", 'w') as README: # 'w' lo abre truncando todo lo que tiene
+        README.write(texto)
 
 
 materias = [
@@ -123,6 +143,8 @@ materias = [
         "año":2, "cuatrimestre":2
     }
 ]
+
+
 
 
 
