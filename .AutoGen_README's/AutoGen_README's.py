@@ -1,4 +1,7 @@
 """
+Este archivo genera el README.md para cada materia
+
+
 En este archivo una materia es un diccionario con los siguientes campos:
     - "nombre" : str = Nombre de la materia (en computación)
     - "año" : int = Año en el cuál está la materia
