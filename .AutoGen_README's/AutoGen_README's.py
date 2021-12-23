@@ -83,7 +83,7 @@ def crearArchivo(materia : dict):
     carpetaMateria = pathCarpetaMateria(materia)
     texto = generarTexto(materia)
 
-    with open(f"{carpetaMateria}{os.sep}README.md", 'w') as README: # 'w' lo abre truncando todo lo que tiene
+    with open(f"{carpetaMateria}{os.sep}README.md", 'w', encoding="UTF-8") as README: # 'w' lo abre truncando todo lo que tiene
         README.write(texto)
 
 
@@ -146,9 +146,4 @@ materias = [
 
 
 
-
-
-
-for materia in materias:
-    print(generarTexto(materia))
-    print("------------------------------")
+crearArchivo(materias[0])
