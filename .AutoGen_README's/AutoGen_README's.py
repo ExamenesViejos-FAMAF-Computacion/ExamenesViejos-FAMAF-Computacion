@@ -145,5 +145,12 @@ materias = [
 ]
 
 
+def crearArchivos():
+    for materia in materias:
+        crearArchivo(materia)
 
-crearArchivo(materias[0])
+def main():
+    crearArchivos()
+
+if __name__ == "__main__":
+    main()
