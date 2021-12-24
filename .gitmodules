@@ -34,3 +34,21 @@
 [submodule "2° 2C Sistemas operativos"]
 	path = 2° 2C Sistemas operativos
 	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_SistemasOperativos_FaMAF
+[submodule "3° 1C Matemática discreta 2"]
+	path = 3° 1C Matemática discreta 2
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_MatematicaDiscreta2_FaMAF.git
+[submodule "3° 1C Paradigmas de la programación"]
+	path = 3° 1C Paradigmas de la programación
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_ParadigmasDeLaProgramacion_FaMAF
+[submodule "3° 1C Redes y sistemas distribuídos"]
+	path = 3° 1C Redes y sistemas distribuídos
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_RedesYSistemasDistribuidos_FaMAF.git
+[submodule "3° 2C Arquitectura de computadoras"]
+	path = 3° 2C Arquitectura de computadoras
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_ArquitecturaDeComputadoras_FaMAF.git
+[submodule "3° 2C Bases de datos"]
+	path = 3° 2C Bases de datos
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_BasesDeDatos_FaMAF.git
+[submodule "3° 2C Ingeniería del software 1"]
+	path = 3° 2C Ingeniería del software 1
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_Ingenier-aDelSoftware1_FaMAF.git
