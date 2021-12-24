@@ -72,7 +72,7 @@ def generarTexto(materia : dict) -> str:
 Exámenes viejos de la materia {nombreCarrera_TodasLasCarreras} de FaMAF.
 
 Cualquier contribución con un examen viejo que no esté es bienvenida, ya sea como pull request, o como mandar el examen por cualquier otro medio.
-{"(En esta materia todavía nadie subio ningún exámen, pero igual se puede contribuir)" if not hayExámenes else ""}
+{"(En esta materia todavía nadie subio ningún examen, pero igual se puede contribuir)" if not hayExámenes else ""}
 
 {f"{materia['extra']}" if "extra" in materia else ""}\
 """
@@ -144,6 +144,31 @@ materias = [
     {
         "nombre":"Sistemas operativos",
         "año":2, "cuatrimestre":2
+    },
+    {
+        "nombre":"Matemática discreta 2",
+        "año":3, "cuatrimestre":1
+    },
+    {
+        "nombre":"Paradigmas de la programación",
+        "año":3, "cuatrimestre":1,
+        "extra":"En esta materia los profes comparten los exámenes, así que son faciles de conseguir, pero igual está este repositorio para que haya uno de cada materia"
+    },
+    {
+        "nombre":"Redes y sistemas distribuídos",
+        "año":3, "cuatrimestre":1
+    },
+    {
+        "nombre":"Arquitectura de computadoras",
+        "año":3, "cuatrimestre":2
+    },
+    {
+        "nombre":"Bases de datos",
+        "año":3, "cuatrimestre":2
+    },
+    {
+        "nombre":"Ingeniería del software 1",
+        "año":3, "cuatrimestre":2
     }
 ]
 
