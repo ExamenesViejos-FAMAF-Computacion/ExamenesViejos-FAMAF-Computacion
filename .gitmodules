@@ -52,3 +52,21 @@
 [submodule "3° 2C Ingeniería del software 1"]
 	path = 3° 2C Ingeniería del software 1
 	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_Ingenier-aDelSoftware1_FaMAF.git
+[submodule "4° 1C Lenguajes cormales y computabilidad"]
+	path = 4° 1C Lenguajes formales y computabilidad
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_LenguajesFormalesYComputabilidad_FaMAF.git
+[submodule "4° 1C Modelos y simulación"]
+	path = 4° 1C Modelos y simulación
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_ModelosYSimulacion_FaMAF.git
+[submodule "4° 2C Física"]
+	path = 4° 2C Física
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_Fisica_FaMAF.git
+[submodule "4° 2C Lógica"]
+	path = 4° 2C Lógica
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_Logica_FaMAF.git
+[submodule "5° 1C Ingeniería del software 2"]
+	path = 5° 1C Ingeniería del software 2
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_IngenieriaDelSoftware2_FaMAF.git
+[submodule "5° 1C Lenguajes y compiladores"]
+	path = 5° 1C Lenguajes y compiladores
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_LenguajesYCompiladores_FaMAF.git

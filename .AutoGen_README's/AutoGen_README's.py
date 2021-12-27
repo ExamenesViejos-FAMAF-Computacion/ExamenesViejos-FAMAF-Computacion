@@ -169,6 +169,30 @@ materias = [
     {
         "nombre":"Ingeniería del software 1",
         "año":3, "cuatrimestre":2
+    },
+    {
+        "nombre":"Lenguajes formales y computabilidad",
+        "año":4, "cuatrimestre":1
+    },
+    {
+        "nombre":"Modelos y simulación",
+        "año":4, "cuatrimestre":1
+    },
+    {
+        "nombre":"Física",
+        "año":4, "cuatrimestre":2
+    },
+    {
+        "nombre":"Lógica",
+        "año":4, "cuatrimestre":2
+    },
+    {
+        "nombre":"Ingeniería del software 2",
+        "año":5, "cuatrimestre":1
+    },
+    {
+        "nombre":"Lenguajes y compiladores",
+        "año":5, "cuatrimestre":1
     }
 ]
 
