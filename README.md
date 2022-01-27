@@ -5,7 +5,7 @@ Exámenes viejos de materias de la carrera de Ciencias de la Computación de FaM
 Para clonar clonando los sub-repositorios de todas las materias:
 
 ```shell
-git clone --recurse-submodules
+git clone --recurse-submodules "https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos-FaMAF-Computacion.git"
 ```
 
 Para actualizar todo el repositorio y todos los sub-repositorios:
