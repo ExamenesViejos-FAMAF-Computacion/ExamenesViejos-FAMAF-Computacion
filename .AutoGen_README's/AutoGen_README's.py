@@ -86,8 +86,13 @@ def crearArchivo(materia : dict):
     carpetaMateria = pathCarpetaMateria(materia)
     texto = generarTexto(materia)
 
-    with open(f"{carpetaMateria}{os.sep}README.md", 'w', encoding="UTF-8") as README: # 'w' lo abre truncando todo lo que tiene
-        README.write(texto)
+    with open(f"{carpetaMateria}{os.sep}README.md", 'r', encoding="UTF-8") as README: # 'r' lo abre para leer
+        REDMEtext = README.read()
+    
+    if texto != REDMEtext:
+        with open(f"{carpetaMateria}{os.sep}README.md", 'w', encoding="UTF-8") as README: # 'w' lo abre truncando todo lo que tiene
+            print(f"Modificando el README de {materia['nombre']}")
+            README.write(texto)
 
 
 materias = [
