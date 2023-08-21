@@ -15,3 +15,5 @@ git pull && git submodule update --init --recursive
 ```
 
 Cualquier contribución con un examen viejo es bienvenida, ya sea como un pull request o como mandar el examen por cualquier otro medio.
+
+Otro github con material útil de FaMAF: https://github.com/FAMAF-resources
