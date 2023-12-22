@@ -16,4 +16,8 @@ git pull && git submodule update --init --recursive
 
 Cualquier contribución con un examen viejo es bienvenida, ya sea como un pull request o como mandar el examen por cualquier otro medio.
 
-Otro github con material útil de FaMAF: https://github.com/FAMAF-resources
+### Otros repositorios útiles de FaMAF:
+
+Material en general de las materias: https://github.com/FAMAF-resources
+
+Exámenes viejos resueltos: https://github.com/achaval-tomas/Examenes-Resueltos-FaMAF-Compu
