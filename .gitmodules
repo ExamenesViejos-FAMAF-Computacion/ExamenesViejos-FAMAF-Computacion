@@ -41,7 +41,7 @@
 	path = 3° 1C Paradigmas de la programación
 	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_ParadigmasDeLaProgramacion_FaMAF
 [submodule "3° 1C Redes y sistemas distribuídos"]
-	path = 3° 1C Redes y sistemas distribuídos
+	path = 3° 1C Redes y sistemas distribuidos
 	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_RedesYSistemasDistribuidos_FaMAF.git
 [submodule "3° 2C Arquitectura de computadoras"]
 	path = 3° 2C Arquitectura de computadoras
