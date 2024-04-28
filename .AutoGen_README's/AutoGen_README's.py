@@ -15,6 +15,7 @@ class Materia(TypedDict):
         | list[str] # Nombres de la materia en otras carreras
         | None # Está con el mismo nombre
     ]
+    optativa: NotRequired[None] # Si es una materia optativa en la carrera de computación
     extra : NotRequired[str]
 
 import os
@@ -24,7 +25,10 @@ def pathCarpetaMateria(materia : Materia) -> str:
     Calcula el path desde la ubicación de este archivo hasta la carpeta de la materia
     También verifica que el path exista, y si no lo hace, lanza una excepción
     """
-    path = f"..{os.sep}{materia['año']}° {materia['cuatrimestre']}C {materia['nombre']}"
+    if 'optativa' in materia:
+        path = f"..{os.sep}Optativas{os.sep}{materia['nombre']}"
+    else:
+        path = f"..{os.sep}{materia['año']}° {materia['cuatrimestre']}C {materia['nombre']}"
     if not os.path.exists(path):
         raise Exception(f"El path \"{path}\" no existe")
     return path
@@ -195,6 +199,12 @@ materias: list[Materia] = [
     {
         "nombre": "Lenguajes y compiladores",
         "año": 5, "cuatrimestre": 1
+    },
+    {
+        "nombre": "Introducción al Machine Learning",
+        "año": 5, "cuatrimestre": 2,
+        "otrasCarreras": {"Matemática aplicada": "Ciencia de Datos"},
+        "optativa": None
     }
 ]
 
