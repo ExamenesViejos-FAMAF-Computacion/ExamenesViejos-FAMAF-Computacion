@@ -37,9 +37,9 @@
 [submodule "3° 1C Matemática discreta 2"]
 	path = 3° 1C Matemática discreta 2
 	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_MatematicaDiscreta2_FaMAF.git
-[submodule "3° 1C Paradigmas de la programación"]
-	path = 3° 1C Paradigmas de la programación
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_ParadigmasDeLaProgramacion_FaMAF
+[submodule "3° 1C Paradigmas de programación"]
+	path = 3° 1C Paradigmas de programación
+	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_ParadigmasDeProgramacion_FaMAF
 [submodule "3° 1C Redes y sistemas distribuídos"]
 	path = 3° 1C Redes y sistemas distribuidos
 	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_RedesYSistemasDistribuidos_FaMAF.git
