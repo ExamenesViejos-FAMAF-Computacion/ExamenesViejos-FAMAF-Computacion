@@ -1,75 +1,75 @@
 [submodule "1° 1C Álgebra"]
 	path = 1° 2C Álgebra
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_Algebra_FaMAF.git
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_Algebra_FAMAF.git
 [submodule "1° 1C Introducción a los algoritmos"]
 	path = 1° 1C Introducción a los algoritmos
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_IntroduccionALosAlgoritmos_FaMAF
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_IntroduccionALosAlgoritmos_FAMAF
 [submodule "1° 1C Análisis matemático 1"]
 	path = 1° 1C Análisis matemático 1
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_AnalisisMatematico1_Computacion_FaMAF
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_AnalisisMatematico1_Computacion_FAMAF
 [submodule "1° 2C Análisis matemático 2"]
 	path = 1° 2C Análisis matemático 2
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_AnalisisMatematico2_Computacion_FaMAF
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_AnalisisMatematico2_Computacion_FAMAF
 [submodule "1° 1C Matemática discreta 1"]
 	path = 1° 1C Matemática discreta 1
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_MatematicaDiscreta1_FaMAF
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_MatematicaDiscreta1_FAMAF
 [submodule "1° 2C Algoritmos y estructuras de datos 1"]
 	path = 1° 2C Algoritmos y estructuras de datos 1
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_AlgoritmosYEstructurasDeDatos1_FaMAF
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_AlgoritmosYEstructurasDeDatos1_FAMAF
 [submodule "2° 1C Algoritmos y estructuras de datos 2"]
 	path = 2° 1C Algoritmos y estructuras de datos 2
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_AlgoritmosYEstructurasDeDatos2_FaMAF
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_AlgoritmosYEstructurasDeDatos2_FAMAF
 [submodule "2° 1C Análisis numérico"]
 	path = 2° 1C Análisis numérico
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_AnalisisNumerico_FaMAF
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_AnalisisNumerico_FAMAF
 [submodule "2° 1C Organización del computador"]
 	path = 2° 1C Organización del computador
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_OrganizacionDelComputador_FaMAF
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_OrganizacionDelComputador_FAMAF
 [submodule "2° 2C Introducción a la lógica y a la computación"]
 	path = 2° 2C Introducción a la lógica y a la computación
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_IntroduccionALaLogicaYALaComputacion_FaMAF
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_IntroduccionALaLogicaYALaComputacion_FAMAF
 [submodule "2° 2C Probabilidad y estadística"]
 	path = 2° 2C Probabilidad y estadística
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_ProbabilidadyEstadistica_FaMAF
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_ProbabilidadyEstadistica_FAMAF
 [submodule "2° 2C Sistemas operativos"]
 	path = 2° 2C Sistemas operativos
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_SistemasOperativos_FaMAF
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_SistemasOperativos_FAMAF
 [submodule "3° 1C Matemática discreta 2"]
 	path = 3° 1C Matemática discreta 2
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_MatematicaDiscreta2_FaMAF.git
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_MatematicaDiscreta2_FAMAF.git
 [submodule "3° 1C Paradigmas de programación"]
 	path = 3° 1C Paradigmas de programación
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_ParadigmasDeProgramacion_FaMAF
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_ParadigmasDeProgramacion_FAMAF
 [submodule "3° 1C Redes y sistemas distribuídos"]
 	path = 3° 1C Redes y sistemas distribuidos
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_RedesYSistemasDistribuidos_FaMAF.git
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_RedesYSistemasDistribuidos_FAMAF.git
 [submodule "3° 2C Arquitectura de computadoras"]
 	path = 3° 2C Arquitectura de computadoras
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_ArquitecturaDeComputadoras_FaMAF.git
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_ArquitecturaDeComputadoras_FAMAF.git
 [submodule "3° 2C Bases de datos"]
 	path = 3° 2C Bases de datos
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_BasesDeDatos_FaMAF.git
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_BasesDeDatos_FAMAF.git
 [submodule "3° 2C Ingeniería del software 1"]
 	path = 3° 2C Ingeniería del software 1
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_Ingenier-aDelSoftware1_FaMAF.git
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_Ingenier-aDelSoftware1_FAMAF.git
 [submodule "4° 1C Lenguajes cormales y computabilidad"]
 	path = 4° 1C Lenguajes formales y computabilidad
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_LenguajesFormalesYComputabilidad_FaMAF.git
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_LenguajesFormalesYComputabilidad_FAMAF.git
 [submodule "4° 1C Modelos y simulación"]
 	path = 4° 1C Modelos y simulación
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_ModelosYSimulacion_FaMAF.git
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_ModelosYSimulacion_FAMAF.git
 [submodule "4° 2C Física"]
 	path = 4° 2C Física
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_Fisica_FaMAF.git
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_Fisica_FAMAF.git
 [submodule "4° 2C Lógica"]
 	path = 4° 2C Lógica
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_Logica_FaMAF.git
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_Logica_FAMAF.git
 [submodule "5° 1C Ingeniería del software 2"]
 	path = 5° 1C Ingeniería del software 2
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_IngenieriaDelSoftware2_FaMAF.git
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_IngenieriaDelSoftware2_FAMAF.git
 [submodule "5° 1C Lenguajes y compiladores"]
 	path = 5° 1C Lenguajes y compiladores
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_LenguajesYCompiladores_FaMAF.git
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_LenguajesYCompiladores_FAMAF.git
 [submodule "Optativas/Introducción al Machine Learning"]
 	path = Optativas/Introducción al Machine Learning
-	url = https://github.com/ExamenesViejos-FaMAF-Computacion/ExamenesViejos_CienciaDeDatos_FaMAF
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_CienciaDeDatos_FAMAF

@@ -67,9 +67,9 @@ def generarTexto(materia : Materia) -> str:
     hayExámenes = len(exámenesQueHay) > 0
 
     texto = f"""\
-# Exámenes viejos {nombreSolo_TodasLasCarreras} - FaMAF
+# Exámenes viejos {nombreSolo_TodasLasCarreras} - FAMAF
 
-Exámenes viejos de la materia {nombreCarrera_TodasLasCarreras} de FaMAF.
+Exámenes viejos de la materia {nombreCarrera_TodasLasCarreras} de FAMAF.
 
 Cualquier contribución con un examen viejo que no esté es bienvenida, ya sea como pull request, o como mandar el examen por cualquier otro medio.
 {"(En esta materia todavía nadie subió ningún examen, pero igual se puede contribuir)" if not hayExámenes else ""}
@@ -156,7 +156,7 @@ materias: list[Materia] = [
         "otrasCarreras": None # Matemática aplicada
     },
     {
-        "nombre": "Paradigmas de la programación",
+        "nombre": "Paradigmas de programación",
         "año": 3, "cuatrimestre": 1
     },
     {
