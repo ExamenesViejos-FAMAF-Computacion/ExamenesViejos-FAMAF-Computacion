@@ -205,6 +205,12 @@ materias: list[Materia] = [
         "año": 5, "cuatrimestre": 2,
         "otrasCarreras": {"Matemática aplicada": "Ciencia de Datos"},
         "optativa": None
+    },
+    {
+        "nombre": "Métodos Computacionales en Optimización",
+        "año": 5, "cuatrimestre": 2,
+        "otrasCarreras": None,
+        "optativa": None
     }
 ]
 

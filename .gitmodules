@@ -73,3 +73,6 @@
 [submodule "Optativas/Introducción al Machine Learning"]
 	path = Optativas/Introducción al Machine Learning
 	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_CienciaDeDatos_FAMAF
+[submodule "Optativas/Métodos Computacionales en Optimización"]
+	path = Optativas/Métodos Computacionales en Optimización
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_MetodosComputacionalesEnOptimizacion_FAMAF.git
