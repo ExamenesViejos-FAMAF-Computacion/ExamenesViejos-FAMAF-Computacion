@@ -76,3 +76,6 @@
 [submodule "Optativas/Métodos Computacionales en Optimización"]
 	path = Optativas/Métodos Computacionales en Optimización
 	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_MetodosComputacionalesEnOptimizacion_FAMAF.git
+[submodule "Optativas/Matemática financiera"]
+	path = Optativas/Matemática financiera
+	url = https://github.com/ExamenesViejos-FAMAF-Computacion/ExamenesViejos_MatematicaFinanciera_FAMAF.git

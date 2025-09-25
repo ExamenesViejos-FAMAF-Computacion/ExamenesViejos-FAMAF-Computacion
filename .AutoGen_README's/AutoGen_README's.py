@@ -211,6 +211,12 @@ materias: list[Materia] = [
         "año": 5, "cuatrimestre": 2,
         "otrasCarreras": None,
         "optativa": None
+    },
+    {
+        "nombre": "Matemática financiera",
+        "año": 5, "cuatrimestre": 2,
+        "otrasCarreras": None,
+        "optativa": None
     }
 ]
 
